@@ -2,6 +2,7 @@
     font-family: 'leckerli_oneregular';
     src: url('css/leckerlione-regular-webfont.woff2') format('woff2'),
          url('css/leckerlione-regular-webfont.woff') format('woff');
+         url('css/LeckerliOne-Regular.ttf') format('tff');
 }
 header{
 	font-family: Leckerli One;
