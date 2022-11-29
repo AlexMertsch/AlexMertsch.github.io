@@ -1,17 +1,14 @@
 @font-face {
     font-family: 'leckerli_oneregular';
-    src: url('leckerlione-regular-webfont.woff2') format('woff2'),
-         url('leckerlione-regular-webfont.woff') format('woff');
-         url('LeckerliOne-Regular.ttf') format('tff');
+    src: url('css/leckerlione-regular-webfont.woff2') format('woff2'),
+         url('css/leckerlione-regular-webfont.woff') format('woff');
 }
 header{
-	font-family: leckerli_oneregular;
 	color: black;
 	background-color: #920000;
 	font-size: 25px;
 }
 nav{
-	font-family: Leckerli One;
 	color: black;
 	background-color: #C97800;
 }
